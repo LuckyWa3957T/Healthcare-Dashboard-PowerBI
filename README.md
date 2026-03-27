@@ -1,10 +1,10 @@
- ##🏥 Healthcare Dashboard (Power BI)
+ ## 🏥 Healthcare Dashboard (Power BI)
 
- ##📊 About This Project
+ ## 📊 About This Project
 
 I built this Power BI dashboard to explore and analyze healthcare data. The goal was to understand how different factors like departments, diseases, and insurance coverage affect revenue and patient satisfaction.
 
- ##📁 Dataset
+ ## 📁 Dataset
 
 The dataset used in this project contains healthcare-related information such as:
 
@@ -14,7 +14,7 @@ The dataset used in this project contains healthcare-related information such as
 * Revenue data
 * Patient satisfaction scores
 
- ##📌 Key Features
+ ## 📌 Key Features
 
 * Analysis of patient satisfaction across different age groups
 * Revenue comparison by departments and treatment outcomes
@@ -22,16 +22,16 @@ The dataset used in this project contains healthcare-related information such as
 * Monthly revenue trend visualization
 * Patient distribution based on age and doctors
 
- ##🛠 Tools & Technologies
+ ## 🛠 Tools & Technologies
 
 * Power BI (for dashboard creation & visualization)
 * Microsoft Excel (for data handling)
 
- ##📸 Dashboard Preview
+ ## 📸 Dashboard Preview
 
 ![DashBoard Screenshot](image/Screenshot 2026-03-27 150005.png)
 
- ##🎯 Key Insights
+ ## 🎯 Key Insights
 
 * Departments like Cardiology and Neurology contribute the most to revenue
 * Higher insurance coverage is linked with better patient satisfaction
