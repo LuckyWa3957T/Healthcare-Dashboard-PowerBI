@@ -29,7 +29,7 @@ The dataset used in this project contains healthcare-related information such as
 
  ## 📸 Dashboard Preview
 
-![DashBoard](Screenshot 2026-03-27 150005.png)
+![DashBoard](Dashboard.png)
 
  ## 🎯 Key Insights
 
